@@ -1,0 +1,15 @@
+h1:hover, h2:hover, .titre-P:hover, h3:hover
+{
+    color: blue;
+}
+
+h1:active, h2:active, .titre-P:active, h3:active
+{
+    text-decoration: underline;
+}
+
+.premier-P:hover, .deuxieme-P:hover, .Paragraphe-principal:hover , .Paragraphe-diff:hover, .paragraphe-italic:hover
+{
+    font-style: italic;
+}
+

@@ -1,0 +1,23 @@
+body {
+    background: url("pingouin.png") no-repeat green center;
+    background-size: 52%;
+}
+
+
+article
+{
+    background: url("pingouin.png") no-repeat red center ;
+    background-size: 20%;
+    opacity: 0.65;
+}
+
+section
+{
+    background-color: saddlebrown;
+    opacity: 0.65;
+}
+
+div
+{
+    color: white;
+}
